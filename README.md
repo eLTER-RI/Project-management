@@ -1,4 +1,4 @@
 # Project-management
 Repo to hold internal project management documentation/tasks
 
-**Question:** Do we ned a template for actions?
+**Question:** Do we need a template for actions?
