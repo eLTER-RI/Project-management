@@ -1,26 +1,27 @@
 ---
 name: Project Task
-about: Use this template to submit actions for eLTER Projects and WP's
+about: To capture project actions and tasks
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-```
-Rename the title, and put a summary description of the action/task in here.
-``
-## Reporter.
-Use your *Github name* and preceed it with @ e.g. @mjbr
+---
+title: 'Task Name'
+---
 
-## Theme.
-Specify the *Theme or domain* if applicable 
+## Reporter...
+Use your GitHub *name* and precede it with @ (e.g. @mjbr) 
 
-## Description.
-Specify why the action/task needs to be performed
+## Theme...
+Specify the *theme* *domain* if applicable 
 
-## Priority
-Use High, Low or Medium
+##... Description...
+Provid a full description of the action or task
 
-## Linked issues
-If you know the n=umber of the issue then precede the number with # e.g. #1
+##... Priority
+Use High, Medium or Low
+
+## Linked Issues
+If you know the number of the issue then precede the number with # e.g. #1.
