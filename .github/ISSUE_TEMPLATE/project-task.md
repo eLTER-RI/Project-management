@@ -18,7 +18,7 @@ Use your GitHub *name* and precede it with @ (e.g. @mjbr)
 Specify the *theme* *domain* if applicable 
 
 ## Description...
-Provid a full description of the action or task
+Provide a full description of the action or task
 
 ## Priority...
 Use High, Medium or Low
